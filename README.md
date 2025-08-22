@@ -1,24 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>TryHackMe – Net Sec Challenge Walkthrough 🚀</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <style>
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; margin: 2rem; color: #111; }
-    h1, h2 { margin-top: 1.6rem; }
-    code, pre { background: #f6f8fa; border: 1px solid #eaecef; border-radius: 6px; }
-    code { padding: 0 .25rem; }
-    pre { padding: 1rem; overflow: auto; }
-    a { color: #0366d6; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    ul { padding-left: 1.25rem; }
-    .muted { color: #555; }
-  </style>
-</head>
-<body>
-
-  <h1>TryHackMe – Net Sec Challenge Walkthrough 🚀</h1>
+ <h1>TryHackMe – Net Sec Challenge Walkthrough 🚀</h1>
   <p><a href="https://tryhackme.com/room/netsecchallenge">https://tryhackme.com/room/netsecchallenge</a></p>
 
   <h2>🔍 Reconnaissance</h2>
